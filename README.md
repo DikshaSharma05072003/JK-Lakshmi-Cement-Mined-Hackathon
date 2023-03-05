@@ -21,3 +21,10 @@ The above code for human face detection is implemented in Jupyter notebook.
 1. OpenCV
 2. Tkinter
 3. PIL
+
+- Approach :-
+We have designed a GUI based Python project for problem. 
+Our project uses python libraries to detect faces from the provided CCTV video.
+We have used the haar cascade algorithm to detect faces in images, irrespective of their scale in image and location. 
+Our project can run real time as well to detect faces from a live video accessed via webcam. 
+Moreover, the images of the human faces captured from the CCTV video is stored in a file as specified in the code.
